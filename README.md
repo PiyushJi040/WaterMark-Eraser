@@ -6,6 +6,12 @@ A powerful Flask web application to remove watermarks from PDF files using multi
 ![Flask](https://img.shields.io/badge/Flask-3.0.0-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+## 🌐 Live Demo
+
+**Try it now:** [https://watermark-eraser.onrender.com](https://watermark-eraser.onrender.com)
+
+> Note: Free tier may take 30-60 seconds to wake up on first request
+
 ## ✨ Features
 
 - **🔲 Crop Edges** - Remove watermarks by cropping from top, bottom, left, or right (0-200px)
